@@ -1,7 +1,6 @@
 # Capstone Project – Clone ITViec
 **HCM University of Science**
 
-**Full-Stack Developer**  
 **March 2024 – May 2024**
 
 ## Project Overview
